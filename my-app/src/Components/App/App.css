@@ -11,13 +11,14 @@
   font-family: 'Roboto', sans-serif;
   line-height: 20px;
   font-size: 18px;
+  background-color: #1B1D1D;
 }
 
 .band-container {
   display: flex;
   gap: 30px;
   align-items: top;
-  background-color: lightblue;
+  background-color: #FCF7F8;
   padding: 40px;
   border-radius: 8px;
   box-shadow: 5px 5px 15px 3px rgba(0, 0, 0, 0.726);
@@ -36,12 +37,14 @@ h1 {
   text-align: center;
   font-family: 'Kdam Thmor Pro', sans-serif;
   font-size: 50px;
-  color: red;
+  color: #48A9A6
+  ;
 }
 h2 {
   text-align: center;
   font-family: 'Kdam Thmor Pro', sans-serif;
   font-size: 30px;
+  color: white;
 }
 h3 {
   font-family: 'Kdam Thmor Pro', sans-serif;
@@ -69,3 +72,24 @@ h3 {
   border-radius: 8px;
   margin-left: 40px;
 }
+
+
+.random-band-display{
+  margin-top: 50px;
+}
+
+.random-button-div{
+  display: flex;
+  justify-content: center;
+ 
+}
+
+.random-buttom
+{
+  width: 200px;
+  font-size: 30px;
+  padding: 5px;
+  margin: 20px;
+  border-radius: 8px;
+}
+
