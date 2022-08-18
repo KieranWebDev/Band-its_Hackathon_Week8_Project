@@ -17,9 +17,30 @@ I am very proud of what we managed to produce in 5 hours and have therefore deci
 
 - We then used Disney Ideation to come up with some ideas of what we could using the data from the API. we set a timer for each room (dreamer, realist, and critic) to ensure we stayed on track.
 
-- We then created a very simple low-fidelity wireframe and component tree. This really helped us to visualise and understand our final goal.
+- We then created a very simple low-fidelity wireframe using miro and a component tree. This really helped us to visualise and understand our final goal.
 
 - Our aim was to create a simple site that allowed the user to search for a band or artist and then display information about them on the page.
+
+ <table>
+	    <tr>
+    	    <td style="padding:10px">
+        	    <img src="https://user-images.githubusercontent.com/82081817/185456844-f22bf208-fb77-4513-af8d-aed282b669c5.PNG" width="100%"/>
+      	    </td>
+            <td style="padding:10px">
+            	<img src="https://user-images.githubusercontent.com/82081817/185456854-a794337f-7850-4ec9-8b3d-dcdcef86bcd0.PNG" width="100%" />
+            </td>
+        </tr>
+         <tr>
+    	    <td style="padding:10px">
+        	    <img src="https://user-images.githubusercontent.com/82081817/185456840-08f6104d-f327-45d3-8fe2-01a11045cc8a.PNG" width="100%"/>
+      	    </td>
+            <td style="padding:10px">
+            	<img src="https://user-images.githubusercontent.com/82081817/185456849-13843d04-7da3-42f6-b395-d40aee576527.PNG" width="100%"/>
+            </td>
+	</tr>
+    </table>
+
+
 
 ## Building the app and challenges.
 
@@ -36,9 +57,14 @@ I am very proud of what we managed to produce in 5 hours and have therefore deci
 - At the end, of the day we had time for a quick retrospective where we reflected on What went well the hurdles we faces and what we would do if we had more time.
 
 - A screenshot of this can be seen below. 
-
+- 
 - I feel that our codebase is pretty sloppy and most of the code is in the App.js file and not in separate components. But given the limited time we had, trade-offs have to be made during every hackathon and we decided to focus on the functionality of the app itself. 
 
 - Finally, at the end of the day, we gave a quick 2-minute presentation of our app and ideation process to our peers.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/82081817/185456857-444d98c6-3b1f-4463-a358-204bfdfed4f2.PNG" width="80%" />
+</p>
+
 
 
