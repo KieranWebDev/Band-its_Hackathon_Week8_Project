@@ -64,13 +64,13 @@ I am very proud of what we managed to produce in the limited time we had and hav
 
 - It was fairly easy to implement the randomizer feature, as we were able to simply refactor the UseEffect function we had created for the main search feature and also apply the same CSS stylings to it. 
 
-- I really saw the benefits of pair programming that day, as my partner and I got on really well and I felt that our skill gaps complimented each other, and thus I feel that we both had learned a lot by the end of the day, as well as feeling proud of what we had achieved.
+- I really saw the benefits of pair programming, as my partner and I got on really well and I felt that our skill gaps complimented each other, and thus I feel that we both had learned a lot by the end of the day, as well as feeling proud of what we had achieved.
 
 ## Retrospective 
 
-- At the end, of the day we had time for a quick retrospective where we reflected on What went well the hurdles we faces and what we would do if we had more time.  A screenshot of this can be seen below. 
+- At the end, of the day we had time for a quick retrospective where we reflected on what went well, the hurdles we faced and what we would do if we had more time.  A screenshot of this can be seen below. 
 
-- I feel that our codebase is pretty sloppy and most of the code is in the App.js file and not in separate components. But given the limited time we had, trade-offs have to be made during every hackathon and we decided to focus on the functionality of the app itself. 
+- I feel that our codebase is pretty sloppy and most of the code is in the App.js file and not in separate components. But given the limited time we had, trade-offs had to be made during every hackathon and we decided to focus on the functionality of the app itself. 
 
 - Finally, at the end of the day, we gave a quick 2-minute presentation of our app and ideation process to our peers.
 
